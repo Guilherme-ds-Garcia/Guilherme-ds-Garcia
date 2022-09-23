@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Guilherme Garcia</h1>
-<h3>19yo student from Brazil <br> Electronic Engineering 4/10 <br> Studying and improving web dev skills</h3> 
+<h3>20yo student from Brazil <br> Computer Science 1/8 <br> Electronic Engineering 6/10 <br> Studying and improving web dev skills</h3> 
 
 - 📫 How to reach me **guilherme.garcia1136@gmail.com**
 
